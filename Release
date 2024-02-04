@@ -1,7 +1,7 @@
 Origin: hrepo
 Label: hrepo
 Suite: stable
-Version: 1.0
+Version: 1.0.2
 Codename: ios
 Architectures: iphoneos-arm64
 Components: main
