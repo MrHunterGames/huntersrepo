@@ -1,0 +1,14 @@
+Package: com.hgamer.linebitsnpieces
+Name: linebitAddons
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Description: linebitAddons is a tweak to make it so those pesky few unsupported apps that make my Home Screen look back can look good
+Maintainer: hunter <theonlyhuntergames@gmail.com>
+Author: hunter <theonlyhuntergames@gmail.com>
+Section: Theme
+Depends: 
+Filename: debs/linebitAddons.deb
+Size: 5544
+MD5sum: 8910e6a9e022c3a416cc03ea6e15c3e4
+SHA1: 18fa0fc1be454789b2bfe48a114d6110588c5d3f
+SHA256: 3e900999c5e8ae37d30aff383bc15e85466a627008361934882a35d2926f087d
