@@ -9,6 +9,6 @@ Section: Theme
 Depends: 
 Filename: debs/linebitAddons.deb
 Size: 9732
-MD5sum: 831db4192f655e6e8546c34a85f82fb9
-SHA1: d41bfd4acde4f865b3449b8b501293be2d65f41e
-SHA256: dd9d318f6bfc4518f55e1f695caa0eb6890e04817d4cf8b60bf62b7af595c6e2
+MD5sum: 4e725b4323b25a3abffccbff3bac8f90
+SHA1: 779716782599123985e5ef8cc65c9c1f2518e3bd
+SHA256: cc645d4ccd1c3a6d280554f336b4c4257dea6bee85ae3629ae4f89d3635ca8e1
