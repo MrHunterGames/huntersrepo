@@ -12,3 +12,19 @@ Size: 9732
 MD5sum: 4e725b4323b25a3abffccbff3bac8f90
 SHA1: 779716782599123985e5ef8cc65c9c1f2518e3bd
 SHA256: cc645d4ccd1c3a6d280554f336b4c4257dea6bee85ae3629ae4f89d3635ca8e1
+
+Package: com.ryannair05.cylinder
+Name: Cylinder Reborn
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Description: Cylinder reborn
+Maintainer: hunter <theonlyhuntergames@gmail.com>
+Author: hunter <theonlyhuntergames@gmail.com>
+Section: Misc
+Depends: 
+Filename: debs/com.ryannair05.cylinder_1.1.1_iphoneos-arm64.deb
+Size: 218474
+MD5sum: 1c6e3a45eeb5b21e4c76b59dbb8ef5ab
+SHA1: e17f9cb1ebadcd34ad9a3a0a0a3741c98f91377d
+SHA256: 5189c5d708a23153bb116438ef928fc9a6cdb182d962d15c0fb0a20fede8f233
+
