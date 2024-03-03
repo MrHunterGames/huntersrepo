@@ -28,3 +28,18 @@ MD5sum: 1c6e3a45eeb5b21e4c76b59dbb8ef5ab
 SHA1: e17f9cb1ebadcd34ad9a3a0a0a3741c98f91377d
 SHA256: 5189c5d708a23153bb116438ef928fc9a6cdb182d962d15c0fb0a20fede8f233
 
+Package: com.merdok.speaknotification
+Name: SpeakNotification
+Version: 1.8.19-1+debug
+Architecture: iphoneos-arm64
+Description: Speak notifications
+Maintainer: hunter <theonlyhuntergames@gmail.com>
+Author: hunter <theonlyhuntergames@gmail.com>
+Section: Tweaks
+Depends: 
+Filename: debs/com.merdok.speaknotification_1.8.19-1+debug_iphoneos-arm64.deb
+Size: 296164
+MD5sum: 5c91b0a7e5d1b5cd4a659be85c93eb00
+SHA1: b278689e8d8233c698a061c835164b195836715b
+SHA256: 4001a11ace979638fb7d3292bb72093b09b72a9bfe8e55b3ad00a6963fafea58
+
