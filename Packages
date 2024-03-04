@@ -43,3 +43,17 @@ MD5sum: 5c91b0a7e5d1b5cd4a659be85c93eb00
 SHA1: b278689e8d8233c698a061c835164b195836715b
 SHA256: 4001a11ace979638fb7d3292bb72093b09b72a9bfe8e55b3ad00a6963fafea58
 
+Package: me.luki.canna
+Name: iOS 6 Lock sound
+Version: 0.9.0
+Architecture: iphoneos-arm64
+Description: Replace the default (boring) lock sound with the (cool) iOS 6 lock sound
+Maintainer: hunter <theonlyhuntergames@gmail.com>
+Author: hunter <theonlyhuntergames@gmail.com>
+Section: Tweaks
+Depends: 
+Filename: debs/me.luki.canna_0.9.0_iphoneos-arm64.deb
+Size: 28978
+MD5sum: 5d91da09bbfa8e43a27728ea0e7ce1f7
+SHA1: f29a069163228131cbeae09d56e1774b5120a828
+SHA256: b1d80d98bdbbdd64094cdffa140f501a4c09a2fe0c9c85de4721f2b3346df9d1
